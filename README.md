@@ -1,7 +1,7 @@
 # Computational Physics 
 This body of code includes the following problems:
 
-1) Numerically solving for the Kepler orbit using Euler, RK4, and Stoermer's rules
+1) Numerically solving for the Kepler orbit using Euler, RK4, and Stoermer's rules: [KeplerEquation.ipynb](KeplerEquation.ipynb)
 2) Solving the Kicked Kepler orbit where speed at perigee is increased
 3) Numerically integrating Relativistic and Non Relativistic Hydrodynamic equations
 4) Using root finding methods to find the precise radius of the star
@@ -16,3 +16,5 @@ This body of code includes the following problems:
 13) Random Walk with Traps
 14) Simulating Gene Sequencing
 15) Drawing Julia Sets
+
+#### All this code was wriitten with the guidance of Prof. Somendra Bhattacharjee and Prof. Dipankar Bhattacharya in Computational Physics and Computational Astrophysics Couses.
