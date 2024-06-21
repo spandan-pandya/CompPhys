@@ -17,4 +17,4 @@ This body of code includes the following problems:
 14) Simulating Gene Sequencing [[Ellipticals&Julia.ipynb](Ellipticals&Julia.ipynb)]
 15) Drawing Julia Sets [[Ellipticals&Julia.ipynb](Ellipticals&Julia.ipynb)]
 
-#### All this code was wriitten with the guidance of Prof. Somendra Bhattacharjee and Prof. Dipankar Bhattacharya in Computational Physics and Computational Astrophysics Couses.
+##### All this code was wriitten with the guidance of Prof. Somendra Bhattacharjee and Prof. Dipankar Bhattacharya in Computational Physics and Computational Astrophysics Couses.
